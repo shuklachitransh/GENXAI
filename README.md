@@ -8,6 +8,7 @@ Material-UI
 npm 
 Git
 <br>
+# About My Project
 GenX is a React.js web application. This project includes API integration with Google Gemini's language model, allowing users to experience a similar search experience.Whit this users can explore the functionalities and design of Google Gemini within a React.js environment.
 
 <div align="center">
