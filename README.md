@@ -13,6 +13,6 @@ GenX is a React.js web application. This project includes API integration with G
 
 # How to use
 
-1.  Clone the repo <code>git clone https://github.com/shuklachitransh/GenAI.git </code>
+1.  Clone the repo <code> git clone https://github.com/shuklachitransh/GenX.git </code>
 2.  Install required dependencies <code>npm i</code>
 3. Run the server <code>npm run dev</code>
