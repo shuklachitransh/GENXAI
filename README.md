@@ -1,5 +1,6 @@
 # GenX
-<img src="https://ibb.co/7xcCX6S" />
+<img src="![logo-Photoroom png-Photoroom](https://github.com/shuklachitransh/GenX/assets/95836022/2c683045-78ad-4187-b8fc-eab1aee5d6b8)
+" />
 
 GenX is a React.js web application. This project includes API integration with Google Gemini's language model, allowing users to experience a similar search experience.Whit this users can explore the functionalities and design of Google Gemini within a React.js environment.
 
