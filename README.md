@@ -1,6 +1,6 @@
 # GenX
 ![logo-Photoroom png-Photoroom](https://github.com/shuklachitransh/GenX/assets/95836022/e039bfa1-69c3-4248-98d6-c7d96b4ffae3)
-#Tech stack
+# Tech stack
 React.js
 CSS
 Fetch
