@@ -13,9 +13,12 @@ GenX is a React.js web application. This project includes API integration with G
 
 <div align="center">
   
-<img width="1429" alt="Screenshot 2024-05-29 at 3 00 26 PM" src="https://github.com/shuklachitransh/GenX/assets/95836022/f06fa963-ef2f-433e-b3a4-98b5fc8b1a05">
-<img width="1440" alt="Screenshot 2024-05-29 at 4 28 41 PM" src="https://github.com/shuklachitransh/GenX/assets/95836022/9430f710-fc64-48b4-8cda-4893ab2bc8f1">
-<img width="1440" alt="Screenshot 2024-05-29 at 4 28 55 PM" src="https://github.com/shuklachitransh/GenX/assets/95836022/6ee99233-d975-4957-9fa2-30df0aa0d03e">
+<img width="1429" alt="Screenshot 2024-05-29 at 3 00 26 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/8c288e22-c49a-4e49-b4bb-8c6a7752d079">
+
+<img width="1440" alt="Screenshot 2024-05-29 at 4 28 41 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/3ffdf3cf-322d-4e10-bc92-5f5a92823328">
+
+<img width="1440" alt="Screenshot 2024-05-29 at 4 28 55 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/39a1a07c-e530-4f3c-9d36-6bbd186435bb">
+
 </div>
 
 
