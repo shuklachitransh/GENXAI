@@ -1,5 +1,6 @@
 # GenX
-![logo-Photoroom png-Photoroom](https://github.com/shuklachitransh/GENX/assets/95836022/3f21537e-55e6-4773-a1fc-e2d8f98fe9f6)
+![logo-Photoroom png-Photoroom](https://github.com/shuklachitransh/GENXAI/assets/95836022/f8f91576-0fb3-4b5c-8577-3465aecdbf08)
+
 # Tech stack
 React.js
 CSS
@@ -13,12 +14,9 @@ GenX is a React.js web application. This project includes API integration with G
 
 <div align="center">
   
-<img width="1429" alt="Screenshot 2024-05-29 at 3 00 26 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/ceea282e-38bd-4f4e-97cb-274c6bc0db70">
-
-<img width="1440" alt="Screenshot 2024-05-29 at 4 28 41 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/72c1848f-8618-4062-b4d6-1d871ef9f7b3">
-
-
-<img width="1440" alt="Screenshot 2024-05-29 at 4 28 55 PM" src="https://github.com/shuklachitransh/GENX/assets/95836022/4e7cb973-6bc9-4039-ac65-a41a6f317b93">
+<img width="1429" alt="Screenshot 2024-05-29 at 3 00 26 PM" src="https://github.com/shuklachitransh/GENXAI/assets/95836022/00f5d71f-c3f2-4277-a6b1-0c0567b3f455">
+<img width="1440" alt="Screenshot 2024-05-29 at 4 28 41 PM" src="https://github.com/shuklachitransh/GENXAI/assets/95836022/8f50d9e0-3dcf-452f-a1a8-aba2aaf00389">
+<img width="1440" alt="Screenshot 2024-05-29 at 4 28 55 PM" src="https://github.com/shuklachitransh/GENXAI/assets/95836022/ff371c5c-e4c0-406a-9449-4be7384b244d">
 
 
 </div>
