@@ -23,7 +23,7 @@ GenX is a React.js web application. This project includes API integration with G
 
 
 # How to use
-
+0. checkout the web APP <code> https://genxai.netlify.app </code>
 1.  Clone the repo <code> https://github.com/shuklachitransh/GENXAI.git </code>
 2.  Install required dependencies <code>npm i</code>
 3. Run the server <code>npm run dev</code>
